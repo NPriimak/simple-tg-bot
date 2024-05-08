@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: simple-tg-bot
+application:
+  bot:
+    token: ${TOKEN}
